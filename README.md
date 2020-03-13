@@ -1,5 +1,7 @@
 # alfred_msedge
-An Alfred Workflow for searching  Microsoft Edge Workflow
+An Alfred workflow for searching  Microsoft Edge Bookmarks
 
 
+
+# Preview
 ![Preview](preview.png)
